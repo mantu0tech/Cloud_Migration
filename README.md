@@ -1,1 +1,1 @@
-# Data Migration of Structured and unStructured data
+# Data Migration of Structured and Unstructured Data
