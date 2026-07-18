@@ -41,7 +41,6 @@ Enterprise-Cloud-Migration/
 ├── .gitignore
 └── README.md                        ← This file
 ```
-
 ---
 
 ## 🏗️ Architecture
